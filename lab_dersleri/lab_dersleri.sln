@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab Ödevleri", "Lab Ödevleri", "{BC2EFF30-A0D7-44EA-A8B0-4B605AD7598E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab_dersleri", "lab_dersleri\lab_dersleri.vcxproj", "{A1596BAB-0CB7-4182-8AA6-149CA0E5B82A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab Dersleri", "Lab Dersleri", "{32070595-F8FE-4196-A469-8760C87ADD08}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab_odevleri", "lab_odevleri\lab_odevleri.vcxproj", "{62FEE372-422E-4C60-B7AD-D3E73983AE38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab Quiz", "Lab Quiz", "{DC048FD5-C9B7-4F5F-9257-BFD0104406A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_quiz", "Lab_quiz\Lab_quiz.vcxproj", "{18B8AAB1-A213-4705-820E-0D30256868D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1596BAB-0CB7-4182-8AA6-149CA0E5B82A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1596BAB-0CB7-4182-8AA6-149CA0E5B82A}.Debug|Win32.Build.0 = Debug|Win32
+		{A1596BAB-0CB7-4182-8AA6-149CA0E5B82A}.Release|Win32.ActiveCfg = Release|Win32
+		{A1596BAB-0CB7-4182-8AA6-149CA0E5B82A}.Release|Win32.Build.0 = Release|Win32
+		{62FEE372-422E-4C60-B7AD-D3E73983AE38}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62FEE372-422E-4C60-B7AD-D3E73983AE38}.Debug|Win32.Build.0 = Debug|Win32
+		{62FEE372-422E-4C60-B7AD-D3E73983AE38}.Release|Win32.ActiveCfg = Release|Win32
+		{62FEE372-422E-4C60-B7AD-D3E73983AE38}.Release|Win32.Build.0 = Release|Win32
+		{18B8AAB1-A213-4705-820E-0D30256868D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18B8AAB1-A213-4705-820E-0D30256868D7}.Debug|Win32.Build.0 = Debug|Win32
+		{18B8AAB1-A213-4705-820E-0D30256868D7}.Release|Win32.ActiveCfg = Release|Win32
+		{18B8AAB1-A213-4705-820E-0D30256868D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{62FEE372-422E-4C60-B7AD-D3E73983AE38} = {BC2EFF30-A0D7-44EA-A8B0-4B605AD7598E}
+		{A1596BAB-0CB7-4182-8AA6-149CA0E5B82A} = {32070595-F8FE-4196-A469-8760C87ADD08}
+		{18B8AAB1-A213-4705-820E-0D30256868D7} = {DC048FD5-C9B7-4F5F-9257-BFD0104406A0}
+	EndGlobalSection
+EndGlobal
